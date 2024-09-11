@@ -5,16 +5,13 @@ import "./mails.css"
 const Mails = ({mailsArr}) => {
     const {isLoggedIn} = useContext(GlobalContext);
     const [mails, setMails] = useState(mailsArr);
-
     const [selectedMails, setSelectedMails] = useState([]);
 
-    // Перемещение письма в выделенные
     const selectMail = (mail) => {
         setMails(mails.filter((m) => m !== mail));
         setSelectedMails([...selectedMails, mail]);
     };
 
-    // Удаление из выделенных
     const deselectMail = (mail) => {
         setSelectedMails(selectedMails.filter((m) => m !== mail));
         setMails([...mails, mail]);
@@ -56,7 +53,6 @@ const Mails = ({mailsArr}) => {
                                 <td key={index}>{mail}</td>
                                 {isLoggedIn && (<td><button onClick={() => deselectMail(mail)}>Deselect</button></td>)}
                             </tr>
-                            
                         ))
                     ) : (<tr>We dont have selected</tr>)
                     }
@@ -64,42 +60,6 @@ const Mails = ({mailsArr}) => {
             </table>
         </div>
     );
-
-    // return (
-    //     <div className="mails-container">
-    //         <div className="all-mails">
-    //             <h3>All mails</h3>
-    //             {mails.length > 0 ? (
-    //             mails.map((mail, index) => (
-    //                 <div key={index}>
-    //                 {mail}
-    //                 {isLoggedIn && (
-    //                     <button onClick={() => selectMail(mail)}>Select</button>
-    //                 )}
-    //                 </div>
-    //             ))
-    //             ) : (
-    //             <p>Нет писем</p>
-    //             )}
-    //         </div>
-
-    //         <div className="selected-mails">
-    //             <h3>Selected Mails</h3>
-    //             {selectedMails.length > 0 ? (
-    //             selectedMails.map((mail, index) => (
-    //                 <div key={index}>
-    //                 {mail}
-    //                 {isLoggedIn && (
-    //                     <button onClick={() => deselectMail(mail)}>Deselect</button>
-    //                 )}
-    //                 </div>
-    //             ))
-    //             ) : (
-    //             <p>We dont have selected</p>
-    //             )}
-    //         </div>
-    //     </div>
-    // );
 }
 
 export {Mails}
