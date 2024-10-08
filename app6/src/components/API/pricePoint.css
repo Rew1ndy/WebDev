@@ -1,0 +1,67 @@
+.dialog-enter {
+    opacity: 0;
+    transform: scale(0.9);
+}
+
+.dialog-enter-active {
+    opacity: 1;
+    transform: scale(1);
+    transition: opacity 300ms, transform 300ms;
+}
+
+.dialog-exit {
+    opacity: 1;
+}
+
+.dialog-exit-active {
+    opacity: 0;
+    transition: opacity 300ms;
+}
+
+.price-enter {
+    opacity: 0;
+    transform: translateY(-20px);
+}
+
+.price-enter-active {
+    opacity: 1;
+    transform: translateY(0);
+    transition: opacity 300ms, transform 300ms;
+}
+
+.price-exit {
+    opacity: 1;
+}
+
+.price-exit-active {
+    opacity: 0;
+    transition: opacity 300ms;
+}
+
+.price-list {
+    padding: 20px;
+    opacity: 0; 
+    /* animation-delay: 1s; */
+    animation-name: apear;
+    animation-fill-mode: forwards;
+    animation-duration: 2s;
+    transition: 2s;
+}
+
+@keyframes apear {
+    0% {
+        transform: translateY(-100px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0);
+        opacity: 100;
+    }
+}
+
+.price-item {
+    background-color: lightblue;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
