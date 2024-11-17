@@ -1,0 +1,29 @@
+.slider-image-container {
+    display: block;
+    height: 100%;
+    margin: 0 25px;
+
+    background-color: #292929;
+}
+
+.pages-container {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    
+    justify-content: center;
+    align-items: center;
+}
+
+.holder {
+    width: 10px;
+    height: 10px;
+    background-color: rgb(104, 104, 104);
+    border-radius: 25px;
+
+    transition: .5s;
+}
+
+.holder-active {
+    background-color: aliceblue;
+}
