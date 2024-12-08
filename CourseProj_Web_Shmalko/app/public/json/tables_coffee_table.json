@@ -1,0 +1,802 @@
+[
+    {
+        "name": "Table 1",
+        "price": 51.5,
+        "type": "Coffee Table",
+        "wood": "Walnut",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table1.jpg"
+    },
+    {
+        "name": "Table 6",
+        "price": 59.0,
+        "type": "Coffee Table",
+        "wood": "Oak",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table6.jpg"
+    },
+    {
+        "name": "Table 11",
+        "price": 66.5,
+        "type": "Coffee Table",
+        "wood": "Birch",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table11.jpg"
+    },
+    {
+        "name": "Table 16",
+        "price": 74.0,
+        "type": "Coffee Table",
+        "wood": "Maple",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table16.jpg"
+    },
+    {
+        "name": "Table 21",
+        "price": 81.5,
+        "type": "Coffee Table",
+        "wood": "Cherry",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table21.jpg"
+    },
+    {
+        "name": "Table 26",
+        "price": 89.0,
+        "type": "Coffee Table",
+        "wood": "Pine",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table26.jpg"
+    },
+    {
+        "name": "Table 31",
+        "price": 96.5,
+        "type": "Coffee Table",
+        "wood": "Walnut",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table31.jpg"
+    },
+    {
+        "name": "Table 36",
+        "price": 104.0,
+        "type": "Coffee Table",
+        "wood": "Oak",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table36.jpg"
+    },
+    {
+        "name": "Table 41",
+        "price": 111.5,
+        "type": "Coffee Table",
+        "wood": "Birch",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table41.jpg"
+    },
+    {
+        "name": "Table 46",
+        "price": 119.0,
+        "type": "Coffee Table",
+        "wood": "Maple",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table46.jpg"
+    },
+    {
+        "name": "Table 51",
+        "price": 126.5,
+        "type": "Coffee Table",
+        "wood": "Cherry",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table51.jpg"
+    },
+    {
+        "name": "Table 56",
+        "price": 134.0,
+        "type": "Coffee Table",
+        "wood": "Pine",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table56.jpg"
+    },
+    {
+        "name": "Table 61",
+        "price": 141.5,
+        "type": "Coffee Table",
+        "wood": "Walnut",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table61.jpg"
+    },
+    {
+        "name": "Table 66",
+        "price": 149.0,
+        "type": "Coffee Table",
+        "wood": "Oak",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table66.jpg"
+    },
+    {
+        "name": "Table 71",
+        "price": 156.5,
+        "type": "Coffee Table",
+        "wood": "Birch",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table71.jpg"
+    },
+    {
+        "name": "Table 76",
+        "price": 164.0,
+        "type": "Coffee Table",
+        "wood": "Maple",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table76.jpg"
+    },
+    {
+        "name": "Table 81",
+        "price": 171.5,
+        "type": "Coffee Table",
+        "wood": "Cherry",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table81.jpg"
+    },
+    {
+        "name": "Table 86",
+        "price": 179.0,
+        "type": "Coffee Table",
+        "wood": "Pine",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table86.jpg"
+    },
+    {
+        "name": "Table 91",
+        "price": 186.5,
+        "type": "Coffee Table",
+        "wood": "Walnut",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table91.jpg"
+    },
+    {
+        "name": "Table 96",
+        "price": 194.0,
+        "type": "Coffee Table",
+        "wood": "Oak",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table96.jpg"
+    },
+    {
+        "name": "Table 1",
+        "price": 51.5,
+        "type": "Coffee Table",
+        "wood": "Walnut",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table1.jpg"
+    },
+    {
+        "name": "Table 6",
+        "price": 59.0,
+        "type": "Coffee Table",
+        "wood": "Oak",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table6.jpg"
+    },
+    {
+        "name": "Table 11",
+        "price": 66.5,
+        "type": "Coffee Table",
+        "wood": "Birch",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table11.jpg"
+    },
+    {
+        "name": "Table 16",
+        "price": 74.0,
+        "type": "Coffee Table",
+        "wood": "Maple",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table16.jpg"
+    },
+    {
+        "name": "Table 21",
+        "price": 81.5,
+        "type": "Coffee Table",
+        "wood": "Cherry",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table21.jpg"
+    },
+    {
+        "name": "Table 26",
+        "price": 89.0,
+        "type": "Coffee Table",
+        "wood": "Pine",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table26.jpg"
+    },
+    {
+        "name": "Table 31",
+        "price": 96.5,
+        "type": "Coffee Table",
+        "wood": "Walnut",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table31.jpg"
+    },
+    {
+        "name": "Table 36",
+        "price": 104.0,
+        "type": "Coffee Table",
+        "wood": "Oak",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table36.jpg"
+    },
+    {
+        "name": "Table 41",
+        "price": 111.5,
+        "type": "Coffee Table",
+        "wood": "Birch",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table41.jpg"
+    },
+    {
+        "name": "Table 46",
+        "price": 119.0,
+        "type": "Coffee Table",
+        "wood": "Maple",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table46.jpg"
+    },
+    {
+        "name": "Table 51",
+        "price": 126.5,
+        "type": "Coffee Table",
+        "wood": "Cherry",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table51.jpg"
+    },
+    {
+        "name": "Table 56",
+        "price": 134.0,
+        "type": "Coffee Table",
+        "wood": "Pine",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table56.jpg"
+    },
+    {
+        "name": "Table 61",
+        "price": 141.5,
+        "type": "Coffee Table",
+        "wood": "Walnut",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table61.jpg"
+    },
+    {
+        "name": "Table 66",
+        "price": 149.0,
+        "type": "Coffee Table",
+        "wood": "Oak",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table66.jpg"
+    },
+    {
+        "name": "Table 71",
+        "price": 156.5,
+        "type": "Coffee Table",
+        "wood": "Birch",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table71.jpg"
+    },
+    {
+        "name": "Table 76",
+        "price": 164.0,
+        "type": "Coffee Table",
+        "wood": "Maple",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table76.jpg"
+    },
+    {
+        "name": "Table 81",
+        "price": 171.5,
+        "type": "Coffee Table",
+        "wood": "Cherry",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table81.jpg"
+    },
+    {
+        "name": "Table 86",
+        "price": 179.0,
+        "type": "Coffee Table",
+        "wood": "Pine",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table86.jpg"
+    },
+    {
+        "name": "Table 91",
+        "price": 186.5,
+        "type": "Coffee Table",
+        "wood": "Walnut",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table91.jpg"
+    },
+    {
+        "name": "Table 96",
+        "price": 194.0,
+        "type": "Coffee Table",
+        "wood": "Oak",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table96.jpg"
+    },
+    {
+        "name": "Table 1",
+        "price": 51.5,
+        "type": "Coffee Table",
+        "wood": "Walnut",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table1.jpg"
+    },
+    {
+        "name": "Table 6",
+        "price": 59.0,
+        "type": "Coffee Table",
+        "wood": "Oak",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table6.jpg"
+    },
+    {
+        "name": "Table 11",
+        "price": 66.5,
+        "type": "Coffee Table",
+        "wood": "Birch",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table11.jpg"
+    },
+    {
+        "name": "Table 16",
+        "price": 74.0,
+        "type": "Coffee Table",
+        "wood": "Maple",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table16.jpg"
+    },
+    {
+        "name": "Table 21",
+        "price": 81.5,
+        "type": "Coffee Table",
+        "wood": "Cherry",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table21.jpg"
+    },
+    {
+        "name": "Table 26",
+        "price": 89.0,
+        "type": "Coffee Table",
+        "wood": "Pine",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table26.jpg"
+    },
+    {
+        "name": "Table 31",
+        "price": 96.5,
+        "type": "Coffee Table",
+        "wood": "Walnut",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table31.jpg"
+    },
+    {
+        "name": "Table 36",
+        "price": 104.0,
+        "type": "Coffee Table",
+        "wood": "Oak",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table36.jpg"
+    },
+    {
+        "name": "Table 41",
+        "price": 111.5,
+        "type": "Coffee Table",
+        "wood": "Birch",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table41.jpg"
+    },
+    {
+        "name": "Table 46",
+        "price": 119.0,
+        "type": "Coffee Table",
+        "wood": "Maple",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table46.jpg"
+    },
+    {
+        "name": "Table 51",
+        "price": 126.5,
+        "type": "Coffee Table",
+        "wood": "Cherry",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table51.jpg"
+    },
+    {
+        "name": "Table 56",
+        "price": 134.0,
+        "type": "Coffee Table",
+        "wood": "Pine",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table56.jpg"
+    },
+    {
+        "name": "Table 61",
+        "price": 141.5,
+        "type": "Coffee Table",
+        "wood": "Walnut",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table61.jpg"
+    },
+    {
+        "name": "Table 66",
+        "price": 149.0,
+        "type": "Coffee Table",
+        "wood": "Oak",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table66.jpg"
+    },
+    {
+        "name": "Table 71",
+        "price": 156.5,
+        "type": "Coffee Table",
+        "wood": "Birch",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table71.jpg"
+    },
+    {
+        "name": "Table 76",
+        "price": 164.0,
+        "type": "Coffee Table",
+        "wood": "Maple",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table76.jpg"
+    },
+    {
+        "name": "Table 81",
+        "price": 171.5,
+        "type": "Coffee Table",
+        "wood": "Cherry",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table81.jpg"
+    },
+    {
+        "name": "Table 86",
+        "price": 179.0,
+        "type": "Coffee Table",
+        "wood": "Pine",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table86.jpg"
+    },
+    {
+        "name": "Table 91",
+        "price": 186.5,
+        "type": "Coffee Table",
+        "wood": "Walnut",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table91.jpg"
+    },
+    {
+        "name": "Table 96",
+        "price": 194.0,
+        "type": "Coffee Table",
+        "wood": "Oak",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table96.jpg"
+    },
+    {
+        "name": "Table 1",
+        "price": 51.5,
+        "type": "Coffee Table",
+        "wood": "Walnut",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table1.jpg"
+    },
+    {
+        "name": "Table 6",
+        "price": 59.0,
+        "type": "Coffee Table",
+        "wood": "Oak",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table6.jpg"
+    },
+    {
+        "name": "Table 11",
+        "price": 66.5,
+        "type": "Coffee Table",
+        "wood": "Birch",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table11.jpg"
+    },
+    {
+        "name": "Table 16",
+        "price": 74.0,
+        "type": "Coffee Table",
+        "wood": "Maple",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table16.jpg"
+    },
+    {
+        "name": "Table 21",
+        "price": 81.5,
+        "type": "Coffee Table",
+        "wood": "Cherry",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table21.jpg"
+    },
+    {
+        "name": "Table 26",
+        "price": 89.0,
+        "type": "Coffee Table",
+        "wood": "Pine",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table26.jpg"
+    },
+    {
+        "name": "Table 31",
+        "price": 96.5,
+        "type": "Coffee Table",
+        "wood": "Walnut",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table31.jpg"
+    },
+    {
+        "name": "Table 36",
+        "price": 104.0,
+        "type": "Coffee Table",
+        "wood": "Oak",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table36.jpg"
+    },
+    {
+        "name": "Table 41",
+        "price": 111.5,
+        "type": "Coffee Table",
+        "wood": "Birch",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table41.jpg"
+    },
+    {
+        "name": "Table 46",
+        "price": 119.0,
+        "type": "Coffee Table",
+        "wood": "Maple",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table46.jpg"
+    },
+    {
+        "name": "Table 51",
+        "price": 126.5,
+        "type": "Coffee Table",
+        "wood": "Cherry",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table51.jpg"
+    },
+    {
+        "name": "Table 56",
+        "price": 134.0,
+        "type": "Coffee Table",
+        "wood": "Pine",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table56.jpg"
+    },
+    {
+        "name": "Table 61",
+        "price": 141.5,
+        "type": "Coffee Table",
+        "wood": "Walnut",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table61.jpg"
+    },
+    {
+        "name": "Table 66",
+        "price": 149.0,
+        "type": "Coffee Table",
+        "wood": "Oak",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table66.jpg"
+    },
+    {
+        "name": "Table 71",
+        "price": 156.5,
+        "type": "Coffee Table",
+        "wood": "Birch",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table71.jpg"
+    },
+    {
+        "name": "Table 76",
+        "price": 164.0,
+        "type": "Coffee Table",
+        "wood": "Maple",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table76.jpg"
+    },
+    {
+        "name": "Table 81",
+        "price": 171.5,
+        "type": "Coffee Table",
+        "wood": "Cherry",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table81.jpg"
+    },
+    {
+        "name": "Table 86",
+        "price": 179.0,
+        "type": "Coffee Table",
+        "wood": "Pine",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table86.jpg"
+    },
+    {
+        "name": "Table 91",
+        "price": 186.5,
+        "type": "Coffee Table",
+        "wood": "Walnut",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table91.jpg"
+    },
+    {
+        "name": "Table 96",
+        "price": 194.0,
+        "type": "Coffee Table",
+        "wood": "Oak",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table96.jpg"
+    },
+    {
+        "name": "Table 1",
+        "price": 51.5,
+        "type": "Coffee Table",
+        "wood": "Walnut",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table1.jpg"
+    },
+    {
+        "name": "Table 6",
+        "price": 59.0,
+        "type": "Coffee Table",
+        "wood": "Oak",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table6.jpg"
+    },
+    {
+        "name": "Table 11",
+        "price": 66.5,
+        "type": "Coffee Table",
+        "wood": "Birch",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table11.jpg"
+    },
+    {
+        "name": "Table 16",
+        "price": 74.0,
+        "type": "Coffee Table",
+        "wood": "Maple",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table16.jpg"
+    },
+    {
+        "name": "Table 21",
+        "price": 81.5,
+        "type": "Coffee Table",
+        "wood": "Cherry",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table21.jpg"
+    },
+    {
+        "name": "Table 26",
+        "price": 89.0,
+        "type": "Coffee Table",
+        "wood": "Pine",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table26.jpg"
+    },
+    {
+        "name": "Table 31",
+        "price": 96.5,
+        "type": "Coffee Table",
+        "wood": "Walnut",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table31.jpg"
+    },
+    {
+        "name": "Table 36",
+        "price": 104.0,
+        "type": "Coffee Table",
+        "wood": "Oak",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table36.jpg"
+    },
+    {
+        "name": "Table 41",
+        "price": 111.5,
+        "type": "Coffee Table",
+        "wood": "Birch",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table41.jpg"
+    },
+    {
+        "name": "Table 46",
+        "price": 119.0,
+        "type": "Coffee Table",
+        "wood": "Maple",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table46.jpg"
+    },
+    {
+        "name": "Table 51",
+        "price": 126.5,
+        "type": "Coffee Table",
+        "wood": "Cherry",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table51.jpg"
+    },
+    {
+        "name": "Table 56",
+        "price": 134.0,
+        "type": "Coffee Table",
+        "wood": "Pine",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table56.jpg"
+    },
+    {
+        "name": "Table 61",
+        "price": 141.5,
+        "type": "Coffee Table",
+        "wood": "Walnut",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table61.jpg"
+    },
+    {
+        "name": "Table 66",
+        "price": 149.0,
+        "type": "Coffee Table",
+        "wood": "Oak",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table66.jpg"
+    },
+    {
+        "name": "Table 71",
+        "price": 156.5,
+        "type": "Coffee Table",
+        "wood": "Birch",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table71.jpg"
+    },
+    {
+        "name": "Table 76",
+        "price": 164.0,
+        "type": "Coffee Table",
+        "wood": "Maple",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table76.jpg"
+    },
+    {
+        "name": "Table 81",
+        "price": 171.5,
+        "type": "Coffee Table",
+        "wood": "Cherry",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table81.jpg"
+    },
+    {
+        "name": "Table 86",
+        "price": 179.0,
+        "type": "Coffee Table",
+        "wood": "Pine",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table86.jpg"
+    },
+    {
+        "name": "Table 91",
+        "price": 186.5,
+        "type": "Coffee Table",
+        "wood": "Walnut",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table91.jpg"
+    },
+    {
+        "name": "Table 96",
+        "price": 194.0,
+        "type": "Coffee Table",
+        "wood": "Oak",
+        "description": "Compact and practical.",
+        "image": "/imgs/tables/table96.jpg"
+    }
+]

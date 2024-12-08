@@ -1,0 +1,802 @@
+[
+    {
+        "name": "Table 5",
+        "price": 57.5,
+        "type": "Dining Table",
+        "wood": "Birch",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table5.jpg"
+    },
+    {
+        "name": "Table 10",
+        "price": 65.0,
+        "type": "Dining Table",
+        "wood": "Maple",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table10.jpg"
+    },
+    {
+        "name": "Table 15",
+        "price": 72.5,
+        "type": "Dining Table",
+        "wood": "Cherry",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table15.jpg"
+    },
+    {
+        "name": "Table 20",
+        "price": 80.0,
+        "type": "Dining Table",
+        "wood": "Pine",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table20.jpg"
+    },
+    {
+        "name": "Table 25",
+        "price": 87.5,
+        "type": "Dining Table",
+        "wood": "Walnut",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table25.jpg"
+    },
+    {
+        "name": "Table 30",
+        "price": 95.0,
+        "type": "Dining Table",
+        "wood": "Oak",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table30.jpg"
+    },
+    {
+        "name": "Table 35",
+        "price": 102.5,
+        "type": "Dining Table",
+        "wood": "Birch",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table35.jpg"
+    },
+    {
+        "name": "Table 40",
+        "price": 110.0,
+        "type": "Dining Table",
+        "wood": "Maple",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table40.jpg"
+    },
+    {
+        "name": "Table 45",
+        "price": 117.5,
+        "type": "Dining Table",
+        "wood": "Cherry",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table45.jpg"
+    },
+    {
+        "name": "Table 50",
+        "price": 125.0,
+        "type": "Dining Table",
+        "wood": "Pine",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table50.jpg"
+    },
+    {
+        "name": "Table 55",
+        "price": 132.5,
+        "type": "Dining Table",
+        "wood": "Walnut",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table55.jpg"
+    },
+    {
+        "name": "Table 60",
+        "price": 140.0,
+        "type": "Dining Table",
+        "wood": "Oak",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table60.jpg"
+    },
+    {
+        "name": "Table 65",
+        "price": 147.5,
+        "type": "Dining Table",
+        "wood": "Birch",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table65.jpg"
+    },
+    {
+        "name": "Table 70",
+        "price": 155.0,
+        "type": "Dining Table",
+        "wood": "Maple",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table70.jpg"
+    },
+    {
+        "name": "Table 75",
+        "price": 162.5,
+        "type": "Dining Table",
+        "wood": "Cherry",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table75.jpg"
+    },
+    {
+        "name": "Table 80",
+        "price": 170.0,
+        "type": "Dining Table",
+        "wood": "Pine",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table80.jpg"
+    },
+    {
+        "name": "Table 85",
+        "price": 177.5,
+        "type": "Dining Table",
+        "wood": "Walnut",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table85.jpg"
+    },
+    {
+        "name": "Table 90",
+        "price": 185.0,
+        "type": "Dining Table",
+        "wood": "Oak",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table90.jpg"
+    },
+    {
+        "name": "Table 95",
+        "price": 192.5,
+        "type": "Dining Table",
+        "wood": "Birch",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table95.jpg"
+    },
+    {
+        "name": "Table 100",
+        "price": 200.0,
+        "type": "Dining Table",
+        "wood": "Maple",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table100.jpg"
+    },
+    {
+        "name": "Table 5",
+        "price": 57.5,
+        "type": "Dining Table",
+        "wood": "Birch",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table5.jpg"
+    },
+    {
+        "name": "Table 10",
+        "price": 65.0,
+        "type": "Dining Table",
+        "wood": "Maple",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table10.jpg"
+    },
+    {
+        "name": "Table 15",
+        "price": 72.5,
+        "type": "Dining Table",
+        "wood": "Cherry",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table15.jpg"
+    },
+    {
+        "name": "Table 20",
+        "price": 80.0,
+        "type": "Dining Table",
+        "wood": "Pine",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table20.jpg"
+    },
+    {
+        "name": "Table 25",
+        "price": 87.5,
+        "type": "Dining Table",
+        "wood": "Walnut",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table25.jpg"
+    },
+    {
+        "name": "Table 30",
+        "price": 95.0,
+        "type": "Dining Table",
+        "wood": "Oak",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table30.jpg"
+    },
+    {
+        "name": "Table 35",
+        "price": 102.5,
+        "type": "Dining Table",
+        "wood": "Birch",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table35.jpg"
+    },
+    {
+        "name": "Table 40",
+        "price": 110.0,
+        "type": "Dining Table",
+        "wood": "Maple",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table40.jpg"
+    },
+    {
+        "name": "Table 45",
+        "price": 117.5,
+        "type": "Dining Table",
+        "wood": "Cherry",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table45.jpg"
+    },
+    {
+        "name": "Table 50",
+        "price": 125.0,
+        "type": "Dining Table",
+        "wood": "Pine",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table50.jpg"
+    },
+    {
+        "name": "Table 55",
+        "price": 132.5,
+        "type": "Dining Table",
+        "wood": "Walnut",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table55.jpg"
+    },
+    {
+        "name": "Table 60",
+        "price": 140.0,
+        "type": "Dining Table",
+        "wood": "Oak",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table60.jpg"
+    },
+    {
+        "name": "Table 65",
+        "price": 147.5,
+        "type": "Dining Table",
+        "wood": "Birch",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table65.jpg"
+    },
+    {
+        "name": "Table 70",
+        "price": 155.0,
+        "type": "Dining Table",
+        "wood": "Maple",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table70.jpg"
+    },
+    {
+        "name": "Table 75",
+        "price": 162.5,
+        "type": "Dining Table",
+        "wood": "Cherry",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table75.jpg"
+    },
+    {
+        "name": "Table 80",
+        "price": 170.0,
+        "type": "Dining Table",
+        "wood": "Pine",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table80.jpg"
+    },
+    {
+        "name": "Table 85",
+        "price": 177.5,
+        "type": "Dining Table",
+        "wood": "Walnut",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table85.jpg"
+    },
+    {
+        "name": "Table 90",
+        "price": 185.0,
+        "type": "Dining Table",
+        "wood": "Oak",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table90.jpg"
+    },
+    {
+        "name": "Table 95",
+        "price": 192.5,
+        "type": "Dining Table",
+        "wood": "Birch",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table95.jpg"
+    },
+    {
+        "name": "Table 100",
+        "price": 200.0,
+        "type": "Dining Table",
+        "wood": "Maple",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table100.jpg"
+    },
+    {
+        "name": "Table 5",
+        "price": 57.5,
+        "type": "Dining Table",
+        "wood": "Birch",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table5.jpg"
+    },
+    {
+        "name": "Table 10",
+        "price": 65.0,
+        "type": "Dining Table",
+        "wood": "Maple",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table10.jpg"
+    },
+    {
+        "name": "Table 15",
+        "price": 72.5,
+        "type": "Dining Table",
+        "wood": "Cherry",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table15.jpg"
+    },
+    {
+        "name": "Table 20",
+        "price": 80.0,
+        "type": "Dining Table",
+        "wood": "Pine",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table20.jpg"
+    },
+    {
+        "name": "Table 25",
+        "price": 87.5,
+        "type": "Dining Table",
+        "wood": "Walnut",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table25.jpg"
+    },
+    {
+        "name": "Table 30",
+        "price": 95.0,
+        "type": "Dining Table",
+        "wood": "Oak",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table30.jpg"
+    },
+    {
+        "name": "Table 35",
+        "price": 102.5,
+        "type": "Dining Table",
+        "wood": "Birch",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table35.jpg"
+    },
+    {
+        "name": "Table 40",
+        "price": 110.0,
+        "type": "Dining Table",
+        "wood": "Maple",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table40.jpg"
+    },
+    {
+        "name": "Table 45",
+        "price": 117.5,
+        "type": "Dining Table",
+        "wood": "Cherry",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table45.jpg"
+    },
+    {
+        "name": "Table 50",
+        "price": 125.0,
+        "type": "Dining Table",
+        "wood": "Pine",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table50.jpg"
+    },
+    {
+        "name": "Table 55",
+        "price": 132.5,
+        "type": "Dining Table",
+        "wood": "Walnut",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table55.jpg"
+    },
+    {
+        "name": "Table 60",
+        "price": 140.0,
+        "type": "Dining Table",
+        "wood": "Oak",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table60.jpg"
+    },
+    {
+        "name": "Table 65",
+        "price": 147.5,
+        "type": "Dining Table",
+        "wood": "Birch",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table65.jpg"
+    },
+    {
+        "name": "Table 70",
+        "price": 155.0,
+        "type": "Dining Table",
+        "wood": "Maple",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table70.jpg"
+    },
+    {
+        "name": "Table 75",
+        "price": 162.5,
+        "type": "Dining Table",
+        "wood": "Cherry",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table75.jpg"
+    },
+    {
+        "name": "Table 80",
+        "price": 170.0,
+        "type": "Dining Table",
+        "wood": "Pine",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table80.jpg"
+    },
+    {
+        "name": "Table 85",
+        "price": 177.5,
+        "type": "Dining Table",
+        "wood": "Walnut",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table85.jpg"
+    },
+    {
+        "name": "Table 90",
+        "price": 185.0,
+        "type": "Dining Table",
+        "wood": "Oak",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table90.jpg"
+    },
+    {
+        "name": "Table 95",
+        "price": 192.5,
+        "type": "Dining Table",
+        "wood": "Birch",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table95.jpg"
+    },
+    {
+        "name": "Table 100",
+        "price": 200.0,
+        "type": "Dining Table",
+        "wood": "Maple",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table100.jpg"
+    },
+    {
+        "name": "Table 5",
+        "price": 57.5,
+        "type": "Dining Table",
+        "wood": "Birch",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table5.jpg"
+    },
+    {
+        "name": "Table 10",
+        "price": 65.0,
+        "type": "Dining Table",
+        "wood": "Maple",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table10.jpg"
+    },
+    {
+        "name": "Table 15",
+        "price": 72.5,
+        "type": "Dining Table",
+        "wood": "Cherry",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table15.jpg"
+    },
+    {
+        "name": "Table 20",
+        "price": 80.0,
+        "type": "Dining Table",
+        "wood": "Pine",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table20.jpg"
+    },
+    {
+        "name": "Table 25",
+        "price": 87.5,
+        "type": "Dining Table",
+        "wood": "Walnut",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table25.jpg"
+    },
+    {
+        "name": "Table 30",
+        "price": 95.0,
+        "type": "Dining Table",
+        "wood": "Oak",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table30.jpg"
+    },
+    {
+        "name": "Table 35",
+        "price": 102.5,
+        "type": "Dining Table",
+        "wood": "Birch",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table35.jpg"
+    },
+    {
+        "name": "Table 40",
+        "price": 110.0,
+        "type": "Dining Table",
+        "wood": "Maple",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table40.jpg"
+    },
+    {
+        "name": "Table 45",
+        "price": 117.5,
+        "type": "Dining Table",
+        "wood": "Cherry",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table45.jpg"
+    },
+    {
+        "name": "Table 50",
+        "price": 125.0,
+        "type": "Dining Table",
+        "wood": "Pine",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table50.jpg"
+    },
+    {
+        "name": "Table 55",
+        "price": 132.5,
+        "type": "Dining Table",
+        "wood": "Walnut",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table55.jpg"
+    },
+    {
+        "name": "Table 60",
+        "price": 140.0,
+        "type": "Dining Table",
+        "wood": "Oak",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table60.jpg"
+    },
+    {
+        "name": "Table 65",
+        "price": 147.5,
+        "type": "Dining Table",
+        "wood": "Birch",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table65.jpg"
+    },
+    {
+        "name": "Table 70",
+        "price": 155.0,
+        "type": "Dining Table",
+        "wood": "Maple",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table70.jpg"
+    },
+    {
+        "name": "Table 75",
+        "price": 162.5,
+        "type": "Dining Table",
+        "wood": "Cherry",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table75.jpg"
+    },
+    {
+        "name": "Table 80",
+        "price": 170.0,
+        "type": "Dining Table",
+        "wood": "Pine",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table80.jpg"
+    },
+    {
+        "name": "Table 85",
+        "price": 177.5,
+        "type": "Dining Table",
+        "wood": "Walnut",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table85.jpg"
+    },
+    {
+        "name": "Table 90",
+        "price": 185.0,
+        "type": "Dining Table",
+        "wood": "Oak",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table90.jpg"
+    },
+    {
+        "name": "Table 95",
+        "price": 192.5,
+        "type": "Dining Table",
+        "wood": "Birch",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table95.jpg"
+    },
+    {
+        "name": "Table 100",
+        "price": 200.0,
+        "type": "Dining Table",
+        "wood": "Maple",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table100.jpg"
+    },
+    {
+        "name": "Table 5",
+        "price": 57.5,
+        "type": "Dining Table",
+        "wood": "Birch",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table5.jpg"
+    },
+    {
+        "name": "Table 10",
+        "price": 65.0,
+        "type": "Dining Table",
+        "wood": "Maple",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table10.jpg"
+    },
+    {
+        "name": "Table 15",
+        "price": 72.5,
+        "type": "Dining Table",
+        "wood": "Cherry",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table15.jpg"
+    },
+    {
+        "name": "Table 20",
+        "price": 80.0,
+        "type": "Dining Table",
+        "wood": "Pine",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table20.jpg"
+    },
+    {
+        "name": "Table 25",
+        "price": 87.5,
+        "type": "Dining Table",
+        "wood": "Walnut",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table25.jpg"
+    },
+    {
+        "name": "Table 30",
+        "price": 95.0,
+        "type": "Dining Table",
+        "wood": "Oak",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table30.jpg"
+    },
+    {
+        "name": "Table 35",
+        "price": 102.5,
+        "type": "Dining Table",
+        "wood": "Birch",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table35.jpg"
+    },
+    {
+        "name": "Table 40",
+        "price": 110.0,
+        "type": "Dining Table",
+        "wood": "Maple",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table40.jpg"
+    },
+    {
+        "name": "Table 45",
+        "price": 117.5,
+        "type": "Dining Table",
+        "wood": "Cherry",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table45.jpg"
+    },
+    {
+        "name": "Table 50",
+        "price": 125.0,
+        "type": "Dining Table",
+        "wood": "Pine",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table50.jpg"
+    },
+    {
+        "name": "Table 55",
+        "price": 132.5,
+        "type": "Dining Table",
+        "wood": "Walnut",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table55.jpg"
+    },
+    {
+        "name": "Table 60",
+        "price": 140.0,
+        "type": "Dining Table",
+        "wood": "Oak",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table60.jpg"
+    },
+    {
+        "name": "Table 65",
+        "price": 147.5,
+        "type": "Dining Table",
+        "wood": "Birch",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table65.jpg"
+    },
+    {
+        "name": "Table 70",
+        "price": 155.0,
+        "type": "Dining Table",
+        "wood": "Maple",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table70.jpg"
+    },
+    {
+        "name": "Table 75",
+        "price": 162.5,
+        "type": "Dining Table",
+        "wood": "Cherry",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table75.jpg"
+    },
+    {
+        "name": "Table 80",
+        "price": 170.0,
+        "type": "Dining Table",
+        "wood": "Pine",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table80.jpg"
+    },
+    {
+        "name": "Table 85",
+        "price": 177.5,
+        "type": "Dining Table",
+        "wood": "Walnut",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table85.jpg"
+    },
+    {
+        "name": "Table 90",
+        "price": 185.0,
+        "type": "Dining Table",
+        "wood": "Oak",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table90.jpg"
+    },
+    {
+        "name": "Table 95",
+        "price": 192.5,
+        "type": "Dining Table",
+        "wood": "Birch",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table95.jpg"
+    },
+    {
+        "name": "Table 100",
+        "price": 200.0,
+        "type": "Dining Table",
+        "wood": "Maple",
+        "description": "Elegant and sturdy design.",
+        "image": "/imgs/tables/table100.jpg"
+    }
+]

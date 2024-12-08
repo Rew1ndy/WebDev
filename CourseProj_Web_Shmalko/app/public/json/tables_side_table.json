@@ -1,0 +1,802 @@
+[
+    {
+        "name": "Table 2",
+        "price": 53.0,
+        "type": "Side Table",
+        "wood": "Pine",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table2.jpg"
+    },
+    {
+        "name": "Table 7",
+        "price": 60.5,
+        "type": "Side Table",
+        "wood": "Walnut",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table7.jpg"
+    },
+    {
+        "name": "Table 12",
+        "price": 68.0,
+        "type": "Side Table",
+        "wood": "Oak",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table12.jpg"
+    },
+    {
+        "name": "Table 17",
+        "price": 75.5,
+        "type": "Side Table",
+        "wood": "Birch",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table17.jpg"
+    },
+    {
+        "name": "Table 22",
+        "price": 83.0,
+        "type": "Side Table",
+        "wood": "Maple",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table22.jpg"
+    },
+    {
+        "name": "Table 27",
+        "price": 90.5,
+        "type": "Side Table",
+        "wood": "Cherry",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table27.jpg"
+    },
+    {
+        "name": "Table 32",
+        "price": 98.0,
+        "type": "Side Table",
+        "wood": "Pine",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table32.jpg"
+    },
+    {
+        "name": "Table 37",
+        "price": 105.5,
+        "type": "Side Table",
+        "wood": "Walnut",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table37.jpg"
+    },
+    {
+        "name": "Table 42",
+        "price": 113.0,
+        "type": "Side Table",
+        "wood": "Oak",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table42.jpg"
+    },
+    {
+        "name": "Table 47",
+        "price": 120.5,
+        "type": "Side Table",
+        "wood": "Birch",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table47.jpg"
+    },
+    {
+        "name": "Table 52",
+        "price": 128.0,
+        "type": "Side Table",
+        "wood": "Maple",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table52.jpg"
+    },
+    {
+        "name": "Table 57",
+        "price": 135.5,
+        "type": "Side Table",
+        "wood": "Cherry",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table57.jpg"
+    },
+    {
+        "name": "Table 62",
+        "price": 143.0,
+        "type": "Side Table",
+        "wood": "Pine",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table62.jpg"
+    },
+    {
+        "name": "Table 67",
+        "price": 150.5,
+        "type": "Side Table",
+        "wood": "Walnut",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table67.jpg"
+    },
+    {
+        "name": "Table 72",
+        "price": 158.0,
+        "type": "Side Table",
+        "wood": "Oak",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table72.jpg"
+    },
+    {
+        "name": "Table 77",
+        "price": 165.5,
+        "type": "Side Table",
+        "wood": "Birch",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table77.jpg"
+    },
+    {
+        "name": "Table 82",
+        "price": 173.0,
+        "type": "Side Table",
+        "wood": "Maple",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table82.jpg"
+    },
+    {
+        "name": "Table 87",
+        "price": 180.5,
+        "type": "Side Table",
+        "wood": "Cherry",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table87.jpg"
+    },
+    {
+        "name": "Table 92",
+        "price": 188.0,
+        "type": "Side Table",
+        "wood": "Pine",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table92.jpg"
+    },
+    {
+        "name": "Table 97",
+        "price": 195.5,
+        "type": "Side Table",
+        "wood": "Walnut",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table97.jpg"
+    },
+    {
+        "name": "Table 2",
+        "price": 53.0,
+        "type": "Side Table",
+        "wood": "Pine",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table2.jpg"
+    },
+    {
+        "name": "Table 7",
+        "price": 60.5,
+        "type": "Side Table",
+        "wood": "Walnut",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table7.jpg"
+    },
+    {
+        "name": "Table 12",
+        "price": 68.0,
+        "type": "Side Table",
+        "wood": "Oak",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table12.jpg"
+    },
+    {
+        "name": "Table 17",
+        "price": 75.5,
+        "type": "Side Table",
+        "wood": "Birch",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table17.jpg"
+    },
+    {
+        "name": "Table 22",
+        "price": 83.0,
+        "type": "Side Table",
+        "wood": "Maple",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table22.jpg"
+    },
+    {
+        "name": "Table 27",
+        "price": 90.5,
+        "type": "Side Table",
+        "wood": "Cherry",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table27.jpg"
+    },
+    {
+        "name": "Table 32",
+        "price": 98.0,
+        "type": "Side Table",
+        "wood": "Pine",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table32.jpg"
+    },
+    {
+        "name": "Table 37",
+        "price": 105.5,
+        "type": "Side Table",
+        "wood": "Walnut",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table37.jpg"
+    },
+    {
+        "name": "Table 42",
+        "price": 113.0,
+        "type": "Side Table",
+        "wood": "Oak",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table42.jpg"
+    },
+    {
+        "name": "Table 47",
+        "price": 120.5,
+        "type": "Side Table",
+        "wood": "Birch",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table47.jpg"
+    },
+    {
+        "name": "Table 52",
+        "price": 128.0,
+        "type": "Side Table",
+        "wood": "Maple",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table52.jpg"
+    },
+    {
+        "name": "Table 57",
+        "price": 135.5,
+        "type": "Side Table",
+        "wood": "Cherry",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table57.jpg"
+    },
+    {
+        "name": "Table 62",
+        "price": 143.0,
+        "type": "Side Table",
+        "wood": "Pine",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table62.jpg"
+    },
+    {
+        "name": "Table 67",
+        "price": 150.5,
+        "type": "Side Table",
+        "wood": "Walnut",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table67.jpg"
+    },
+    {
+        "name": "Table 72",
+        "price": 158.0,
+        "type": "Side Table",
+        "wood": "Oak",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table72.jpg"
+    },
+    {
+        "name": "Table 77",
+        "price": 165.5,
+        "type": "Side Table",
+        "wood": "Birch",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table77.jpg"
+    },
+    {
+        "name": "Table 82",
+        "price": 173.0,
+        "type": "Side Table",
+        "wood": "Maple",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table82.jpg"
+    },
+    {
+        "name": "Table 87",
+        "price": 180.5,
+        "type": "Side Table",
+        "wood": "Cherry",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table87.jpg"
+    },
+    {
+        "name": "Table 92",
+        "price": 188.0,
+        "type": "Side Table",
+        "wood": "Pine",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table92.jpg"
+    },
+    {
+        "name": "Table 97",
+        "price": 195.5,
+        "type": "Side Table",
+        "wood": "Walnut",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table97.jpg"
+    },
+    {
+        "name": "Table 2",
+        "price": 53.0,
+        "type": "Side Table",
+        "wood": "Pine",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table2.jpg"
+    },
+    {
+        "name": "Table 7",
+        "price": 60.5,
+        "type": "Side Table",
+        "wood": "Walnut",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table7.jpg"
+    },
+    {
+        "name": "Table 12",
+        "price": 68.0,
+        "type": "Side Table",
+        "wood": "Oak",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table12.jpg"
+    },
+    {
+        "name": "Table 17",
+        "price": 75.5,
+        "type": "Side Table",
+        "wood": "Birch",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table17.jpg"
+    },
+    {
+        "name": "Table 22",
+        "price": 83.0,
+        "type": "Side Table",
+        "wood": "Maple",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table22.jpg"
+    },
+    {
+        "name": "Table 27",
+        "price": 90.5,
+        "type": "Side Table",
+        "wood": "Cherry",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table27.jpg"
+    },
+    {
+        "name": "Table 32",
+        "price": 98.0,
+        "type": "Side Table",
+        "wood": "Pine",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table32.jpg"
+    },
+    {
+        "name": "Table 37",
+        "price": 105.5,
+        "type": "Side Table",
+        "wood": "Walnut",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table37.jpg"
+    },
+    {
+        "name": "Table 42",
+        "price": 113.0,
+        "type": "Side Table",
+        "wood": "Oak",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table42.jpg"
+    },
+    {
+        "name": "Table 47",
+        "price": 120.5,
+        "type": "Side Table",
+        "wood": "Birch",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table47.jpg"
+    },
+    {
+        "name": "Table 52",
+        "price": 128.0,
+        "type": "Side Table",
+        "wood": "Maple",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table52.jpg"
+    },
+    {
+        "name": "Table 57",
+        "price": 135.5,
+        "type": "Side Table",
+        "wood": "Cherry",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table57.jpg"
+    },
+    {
+        "name": "Table 62",
+        "price": 143.0,
+        "type": "Side Table",
+        "wood": "Pine",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table62.jpg"
+    },
+    {
+        "name": "Table 67",
+        "price": 150.5,
+        "type": "Side Table",
+        "wood": "Walnut",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table67.jpg"
+    },
+    {
+        "name": "Table 72",
+        "price": 158.0,
+        "type": "Side Table",
+        "wood": "Oak",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table72.jpg"
+    },
+    {
+        "name": "Table 77",
+        "price": 165.5,
+        "type": "Side Table",
+        "wood": "Birch",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table77.jpg"
+    },
+    {
+        "name": "Table 82",
+        "price": 173.0,
+        "type": "Side Table",
+        "wood": "Maple",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table82.jpg"
+    },
+    {
+        "name": "Table 87",
+        "price": 180.5,
+        "type": "Side Table",
+        "wood": "Cherry",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table87.jpg"
+    },
+    {
+        "name": "Table 92",
+        "price": 188.0,
+        "type": "Side Table",
+        "wood": "Pine",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table92.jpg"
+    },
+    {
+        "name": "Table 97",
+        "price": 195.5,
+        "type": "Side Table",
+        "wood": "Walnut",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table97.jpg"
+    },
+    {
+        "name": "Table 2",
+        "price": 53.0,
+        "type": "Side Table",
+        "wood": "Pine",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table2.jpg"
+    },
+    {
+        "name": "Table 7",
+        "price": 60.5,
+        "type": "Side Table",
+        "wood": "Walnut",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table7.jpg"
+    },
+    {
+        "name": "Table 12",
+        "price": 68.0,
+        "type": "Side Table",
+        "wood": "Oak",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table12.jpg"
+    },
+    {
+        "name": "Table 17",
+        "price": 75.5,
+        "type": "Side Table",
+        "wood": "Birch",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table17.jpg"
+    },
+    {
+        "name": "Table 22",
+        "price": 83.0,
+        "type": "Side Table",
+        "wood": "Maple",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table22.jpg"
+    },
+    {
+        "name": "Table 27",
+        "price": 90.5,
+        "type": "Side Table",
+        "wood": "Cherry",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table27.jpg"
+    },
+    {
+        "name": "Table 32",
+        "price": 98.0,
+        "type": "Side Table",
+        "wood": "Pine",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table32.jpg"
+    },
+    {
+        "name": "Table 37",
+        "price": 105.5,
+        "type": "Side Table",
+        "wood": "Walnut",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table37.jpg"
+    },
+    {
+        "name": "Table 42",
+        "price": 113.0,
+        "type": "Side Table",
+        "wood": "Oak",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table42.jpg"
+    },
+    {
+        "name": "Table 47",
+        "price": 120.5,
+        "type": "Side Table",
+        "wood": "Birch",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table47.jpg"
+    },
+    {
+        "name": "Table 52",
+        "price": 128.0,
+        "type": "Side Table",
+        "wood": "Maple",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table52.jpg"
+    },
+    {
+        "name": "Table 57",
+        "price": 135.5,
+        "type": "Side Table",
+        "wood": "Cherry",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table57.jpg"
+    },
+    {
+        "name": "Table 62",
+        "price": 143.0,
+        "type": "Side Table",
+        "wood": "Pine",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table62.jpg"
+    },
+    {
+        "name": "Table 67",
+        "price": 150.5,
+        "type": "Side Table",
+        "wood": "Walnut",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table67.jpg"
+    },
+    {
+        "name": "Table 72",
+        "price": 158.0,
+        "type": "Side Table",
+        "wood": "Oak",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table72.jpg"
+    },
+    {
+        "name": "Table 77",
+        "price": 165.5,
+        "type": "Side Table",
+        "wood": "Birch",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table77.jpg"
+    },
+    {
+        "name": "Table 82",
+        "price": 173.0,
+        "type": "Side Table",
+        "wood": "Maple",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table82.jpg"
+    },
+    {
+        "name": "Table 87",
+        "price": 180.5,
+        "type": "Side Table",
+        "wood": "Cherry",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table87.jpg"
+    },
+    {
+        "name": "Table 92",
+        "price": 188.0,
+        "type": "Side Table",
+        "wood": "Pine",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table92.jpg"
+    },
+    {
+        "name": "Table 97",
+        "price": 195.5,
+        "type": "Side Table",
+        "wood": "Walnut",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table97.jpg"
+    },
+    {
+        "name": "Table 2",
+        "price": 53.0,
+        "type": "Side Table",
+        "wood": "Pine",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table2.jpg"
+    },
+    {
+        "name": "Table 7",
+        "price": 60.5,
+        "type": "Side Table",
+        "wood": "Walnut",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table7.jpg"
+    },
+    {
+        "name": "Table 12",
+        "price": 68.0,
+        "type": "Side Table",
+        "wood": "Oak",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table12.jpg"
+    },
+    {
+        "name": "Table 17",
+        "price": 75.5,
+        "type": "Side Table",
+        "wood": "Birch",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table17.jpg"
+    },
+    {
+        "name": "Table 22",
+        "price": 83.0,
+        "type": "Side Table",
+        "wood": "Maple",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table22.jpg"
+    },
+    {
+        "name": "Table 27",
+        "price": 90.5,
+        "type": "Side Table",
+        "wood": "Cherry",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table27.jpg"
+    },
+    {
+        "name": "Table 32",
+        "price": 98.0,
+        "type": "Side Table",
+        "wood": "Pine",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table32.jpg"
+    },
+    {
+        "name": "Table 37",
+        "price": 105.5,
+        "type": "Side Table",
+        "wood": "Walnut",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table37.jpg"
+    },
+    {
+        "name": "Table 42",
+        "price": 113.0,
+        "type": "Side Table",
+        "wood": "Oak",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table42.jpg"
+    },
+    {
+        "name": "Table 47",
+        "price": 120.5,
+        "type": "Side Table",
+        "wood": "Birch",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table47.jpg"
+    },
+    {
+        "name": "Table 52",
+        "price": 128.0,
+        "type": "Side Table",
+        "wood": "Maple",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table52.jpg"
+    },
+    {
+        "name": "Table 57",
+        "price": 135.5,
+        "type": "Side Table",
+        "wood": "Cherry",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table57.jpg"
+    },
+    {
+        "name": "Table 62",
+        "price": 143.0,
+        "type": "Side Table",
+        "wood": "Pine",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table62.jpg"
+    },
+    {
+        "name": "Table 67",
+        "price": 150.5,
+        "type": "Side Table",
+        "wood": "Walnut",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table67.jpg"
+    },
+    {
+        "name": "Table 72",
+        "price": 158.0,
+        "type": "Side Table",
+        "wood": "Oak",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table72.jpg"
+    },
+    {
+        "name": "Table 77",
+        "price": 165.5,
+        "type": "Side Table",
+        "wood": "Birch",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table77.jpg"
+    },
+    {
+        "name": "Table 82",
+        "price": 173.0,
+        "type": "Side Table",
+        "wood": "Maple",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table82.jpg"
+    },
+    {
+        "name": "Table 87",
+        "price": 180.5,
+        "type": "Side Table",
+        "wood": "Cherry",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table87.jpg"
+    },
+    {
+        "name": "Table 92",
+        "price": 188.0,
+        "type": "Side Table",
+        "wood": "Pine",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table92.jpg"
+    },
+    {
+        "name": "Table 97",
+        "price": 195.5,
+        "type": "Side Table",
+        "wood": "Walnut",
+        "description": "Perfect for small spaces.",
+        "image": "/imgs/tables/table97.jpg"
+    }
+]

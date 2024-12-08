@@ -1,0 +1,52 @@
+.table-list {
+    padding: 1.5rem;
+
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1rem;
+
+    .table-item {
+        background-color: rgba(0, 0, 0, 0.3);
+        padding: 1rem;
+        border-radius: 0.5rem;
+        display: flex;
+        flex-direction: column;
+        gap: 0.35rem;
+
+        img {
+            height: auto;
+            width: 100%;
+        }
+
+        h5 {
+            font-size: 2rem;
+        }
+
+        p {
+            font-size: 1.5rem;
+        }
+
+        a {
+            margin-top: 0.3rem;
+            padding: 0.33rem;
+            background-color: antiquewhite;
+            text-align: center;
+            color: black;
+            font-weight: bold;
+            border-radius: 0.33rem;
+            text-decoration: none;
+
+            &:hover {
+                filter: brightness(1.1);
+                transform: translateY(1px); 
+            }
+
+            &:active {
+                filter: brightness(0.8);
+                transform: translateY(3px);
+            }
+            
+            transition: 0.3s;
+        }
+    }
+}
